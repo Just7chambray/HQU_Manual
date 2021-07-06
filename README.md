@@ -2,8 +2,7 @@
 description: 为HQUer提供便捷的信息查询服务。
 ---
 
-# 华大手册
-* [链接🔗](https://wu1149855877.gitbook.io/hqu-manual/)
+# [华大手册](https://wu1149855877.gitbook.io/hqu-manual/)
 
 ## 快捷入口
 
